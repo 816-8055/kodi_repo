@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.hopechannel"
-version="0.0.3"
+version="0.0.4"
 name="HopeChannel"
 provider-name="816_8055">
 <requires>
@@ -24,8 +24,8 @@ provider-name="816_8055">
   <news></news>
 </extension>
 <extension point="xbmc.addon.repository" name="816 kodi repo">
-	<info compressed="true">https://github.com/816-8055/kodi_repo/master/addons.xml.gz</info>
-	<checksum>https://github.com/816-8055/kodi_repo/master/addons.xml.gz.md5</checksum>
-	<datadir zip="true">https://github.com/816-8055/kodi_repo/master/</datadir>
+	<info compressed="true">https://raw.githubusercontent.com/816-8055/kodi_repo/master/addons.xml</info>
+	<checksum>https://raw.githubusercontent.com/816-8055/kodi_repo/master/addons.xml.md5</checksum>
+	<datadir zip="true">https://raw.githubusercontent.com/816-8055/kodi_repo/master/</datadir>
 </extension>
 </addon>
